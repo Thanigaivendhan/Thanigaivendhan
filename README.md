@@ -3,7 +3,7 @@
 🎯 Financial Analyst @ Boss Health Care | Business Analytics Enthusiast  
 📍 Liverpool, England | 🌐 Open to Business Analyst | Data Analyst | Business Consultant roles  
 🎓 University of Liverpool | MSc in Business Analytics and Big Data  
-💼 Ex-Lidl | Ex-KFC | Skilled in stakeholder management, process mapping, SQL, Power BI, and R programming  
+💼 Tim Hortons| Ex-KFC | Skilled in stakeholder management, process mapping, SQL, Power BI, R programming, python  
 
 ---
 
@@ -20,7 +20,7 @@ I recently earned my Master’s from the University of Liverpool, where I streng
 ## 🛠️ Tech & Tools
 
 - 📊 Power BI | SQL | Excel (Advanced)  
-- 🧮 R Programming | Python (Basics)  
+- 🧮 R Programming | Python
 - 🔄 Stakeholder Management | Process Mapping | Agile SDLC  
 - 🧠 Predictive Analytics | Data Cleaning & Visualization  
 - 💻 GitHub | Jupyter Notebooks | RStudio  
