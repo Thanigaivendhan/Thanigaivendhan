@@ -42,7 +42,6 @@ I recently earned my Master’s from the University of Liverpool, where I streng
   ⤷ Data cleaning, aggregation, and KPI reporting  
 - **R Scripts for Data Exploration**  
   ⤷ Exploratory analysis, visualizations, and modeling in R  
-- *(More projects coming soon...)*
 
 ---
 
